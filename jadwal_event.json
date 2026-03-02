@@ -1,8 +1,20 @@
 [
   {
-    "waktu_kirim": "2026-03-02 07:14",
+    "waktu_kirim": "2026-03-02 07:18",
     "judul": "🔴 LIVE SEKARANG!!!",
-    "pesan": "Arsenal vs Chelsea | Kick-off 23:30 WIB",
-    "gambar": "https://contoh.com/gambar.jpg"
+    "pesan": "Pertandingan seru sudah dimulai, yuk nonton di AJTV!",
+    "gambar": "https://thumbar.prod.vidio.com/example1.jpg"
+  },
+  {
+    "waktu_kirim": "2026-03-02 19:30",
+    "judul": "⚽ JELANG KICK OFF",
+    "pesan": "Big Match malam ini: Persib vs Persebaya.",
+    "gambar": "https://thumbar.prod.vidio.com/example2.jpg"
+  },
+  {
+    "waktu_kirim": "2026-03-03 23:30",
+    "judul": "🏆 CHAMPIONS LEAGUE",
+    "pesan": "Real Madrid vs Man City | Kick-off 03:00 WIB.",
+    "gambar": ""
   }
 ]
