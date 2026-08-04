@@ -1,5 +1,11 @@
 [
   {
+    "waktu_kirim": "2026-08-04 23:57",
+    "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "Zachary Svajda vs Denis Shapovalov - Round 1 (Center Court) | ATP 1000: National Bank Open presented by Rogers 2026 | Live Jam 00:00 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/4Yt0kkHnCxr0cRADL967hDAQSEY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5249162/7f010c.png"
+  },
+  {
     "waktu_kirim": "2026-08-05 00:57",
     "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "Daniel Merida vs Liam Draxl - Round 1 (Rogers Court) | ATP 1000: National Bank Open presented by Rogers 2026 | Live Jam 01:00 WIB.",
@@ -26,14 +32,8 @@
   {
     "waktu_kirim": "2026-08-05 01:57",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Juncheng Shang vs Andrey Rublev - Round 2 (Rogers Court) | ATP 1000: National Bank Open presented by Rogers 2026 | Live Jam 02:00 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/EaxC7Bdi318xBB5I5gWbD546OkA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5249176/0c5f1a.png"
-  },
-  {
-    "waktu_kirim": "2026-08-05 01:57",
-    "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Terence Atmane vs Jack Draper - Round 1 (Center Court) | ATP 1000: National Bank Open presented by Rogers 2026 | Live Jam 02:00 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/fWF-5i8MOHDG0nCpM7sS5hliCII=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5249161/5eb4ac.png"
+    "pesan": "Juan Manuel Cerundolo vs Hamad Medjedovic - Round 1 (Court 2) | ATP 1000: National Bank Open presented by Rogers 2026 | Live Jam 02:00 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/fPadntbkCW1JvqvTqZOo9yXt8Xo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5249187/559495.png"
   },
   {
     "waktu_kirim": "2026-08-05 01:57",
@@ -50,8 +50,20 @@
   {
     "waktu_kirim": "2026-08-05 01:57",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Juan Manuel Cerundolo vs Hamad Medjedovic - Round 1 (Court 2) | ATP 1000: National Bank Open presented by Rogers 2026 | Live Jam 02:00 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/fPadntbkCW1JvqvTqZOo9yXt8Xo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5249187/559495.png"
+    "pesan": "Terence Atmane vs Jack Draper - Round 1 (Center Court) | ATP 1000: National Bank Open presented by Rogers 2026 | Live Jam 02:00 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/fWF-5i8MOHDG0nCpM7sS5hliCII=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5249161/5eb4ac.png"
+  },
+  {
+    "waktu_kirim": "2026-08-05 01:57",
+    "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "Juncheng Shang vs Andrey Rublev - Round 2 (Rogers Court) | ATP 1000: National Bank Open presented by Rogers 2026 | Live Jam 02:00 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/EaxC7Bdi318xBB5I5gWbD546OkA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5249176/0c5f1a.png"
+  },
+  {
+    "waktu_kirim": "2026-08-05 03:57",
+    "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "Jiri Lehecka vs Vit Kopriva - Round 2 (Court 5) | ATP 1000: National Bank Open presented by Rogers 2026 | Live Jam 04:00 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/4IRmpKcWppGHKl_bWmkgQ9h8exw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5249172/ef0cbf.png"
   },
   {
     "waktu_kirim": "2026-08-05 03:57",
@@ -64,12 +76,6 @@
     "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "Jaume Munar vs Alexander Blockx - Round 2 (Court 9) | ATP 1000: National Bank Open presented by Rogers 2026 | Live Jam 04:00 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/kY6eXprpPR1_O874qREmCi7atXA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5249182/8468c0.png"
-  },
-  {
-    "waktu_kirim": "2026-08-05 03:57",
-    "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Jiri Lehecka vs Vit Kopriva - Round 2 (Court 5) | ATP 1000: National Bank Open presented by Rogers 2026 | Live Jam 04:00 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/4IRmpKcWppGHKl_bWmkgQ9h8exw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5249172/ef0cbf.png"
   },
   {
     "waktu_kirim": "2026-08-05 04:57",
@@ -104,14 +110,14 @@
   {
     "waktu_kirim": "2026-08-05 06:57",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Flavio Cobolli vs Yannick Hanfmann - Round 2 | ATP 1000: National Bank Open presented by Rogers 2026 | Live Jam 07:00 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/l0041e9tEC0rFHruDEKADeSP24A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5249165/16f887.png"
+    "pesan": "Flavio Cobolli vs Yannick Hanfmann - Round 2 (Rogers Court) | ATP 1000: National Bank Open presented by Rogers 2026 | Live Jam 07:00 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/l3GIqLZydKVz1IVIWnnO-XK-Xd8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5249178/bbae31.png"
   },
   {
     "waktu_kirim": "2026-08-05 06:57",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Flavio Cobolli vs Yannick Hanfmann - Round 2 (Rogers Court) | ATP 1000: National Bank Open presented by Rogers 2026 | Live Jam 07:00 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/l3GIqLZydKVz1IVIWnnO-XK-Xd8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5249178/bbae31.png"
+    "pesan": "Flavio Cobolli vs Yannick Hanfmann - Round 2 | ATP 1000: National Bank Open presented by Rogers 2026 | Live Jam 07:00 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/l0041e9tEC0rFHruDEKADeSP24A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5249165/16f887.png"
   },
   {
     "waktu_kirim": "2026-08-05 06:57",
