@@ -86,12 +86,6 @@
   {
     "waktu_kirim": "2026-08-24 01:42",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Torino vs Milan - Serie A | Live Jam 01:45 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/hmu-u5wfHe3_UJCmZdSs38E97qA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5272306/849294.png"
-  },
-  {
-    "waktu_kirim": "2026-08-24 01:42",
-    "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "PSG vs Rennes - Ligue 1 | Live Jam 01:45 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/2VGmOH7tPePAP8AELDb3O8hwf-8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5273833/8c86cb.png"
   },
@@ -100,6 +94,12 @@
     "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "Atalanta vs Sassuolo - Serie A | Live Jam 01:45 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/dGAoCLZwNvJq1rSJkzmnWHjN8E0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5272303/35f6b6.png"
+  },
+  {
+    "waktu_kirim": "2026-08-24 01:42",
+    "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "Torino vs Milan - Serie A | Live Jam 01:45 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/hmu-u5wfHe3_UJCmZdSs38E97qA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5272306/849294.png"
   },
   {
     "waktu_kirim": "2026-08-24 01:57",
@@ -152,14 +152,14 @@
   {
     "waktu_kirim": "2026-08-24 08:27",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Day 1 - WTA 500: Abierto GNP Seguros 2026 | Live Jam 08:30 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/IU2lLNisRuKSSGVOZWdAsZhFY9E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5273419/2eef39.jpg"
+    "pesan": "Vietnam vs Hong Kong - AVC Women's Volleyball Continental Championship | Live Jam 08:30 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/E9OVQhsl8XRgJwOaUUgO1zOhGnA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5272990/f18231.jpg"
   },
   {
-    "waktu_kirim": "2026-08-24 08:57",
+    "waktu_kirim": "2026-08-24 08:27",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Vietnam vs Hong Kong - AVC Women's Volleyball Continental Championship | Live Jam 09:00 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/E9OVQhsl8XRgJwOaUUgO1zOhGnA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5272990/f18231.jpg"
+    "pesan": "Day 1 - WTA 500: Abierto GNP Seguros 2026 | Live Jam 08:30 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/IU2lLNisRuKSSGVOZWdAsZhFY9E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5273419/2eef39.jpg"
   },
   {
     "waktu_kirim": "2026-08-24 13:57",
