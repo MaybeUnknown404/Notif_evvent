@@ -80,6 +80,12 @@
   {
     "waktu_kirim": "2026-09-10 01:52",
     "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "Napoli vs Arsenal - UEFA Champions League | Live Jam 01:55 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/FhZbYilI8ud6yE7xfneqMhu2tV4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5311167/fc2789.png"
+  },
+  {
+    "waktu_kirim": "2026-09-10 01:52",
+    "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "Paris Saint-Germain vs Slovan Bratislava - UEFA Champions League | Live Jam 01:55 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/9VFY9QDVnc73jmeY_lOTT0yJILs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5311166/2bb181.png"
   },
@@ -88,12 +94,6 @@
     "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "Chelsea vs Leeds United - Carabao Cup | Live Jam 01:55 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/c3HTN8jrR7lDuAIR5idj-y589uo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5311169/c3f954.png"
-  },
-  {
-    "waktu_kirim": "2026-09-10 01:52",
-    "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Napoli vs Arsenal - UEFA Champions League | Live Jam 01:55 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/FhZbYilI8ud6yE7xfneqMhu2tV4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5311167/fc2789.png"
   },
   {
     "waktu_kirim": "2026-09-10 01:57",
@@ -140,14 +140,14 @@
   {
     "waktu_kirim": "2026-09-10 23:37",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Fenerbahce vs Roma - UEFA Champions League | Live Jam 23:40 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/VC5WPBALPCo4MoslVjIc3Ro0fCU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5311168/2a0c3f.png"
+    "pesan": "PSV vs Shakhtar Donetsk - UEFA Champions League | Live Jam 23:40 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/StVlzFiLLILjSE4bxLyAIVSvD4I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5310794/ef331e.jpg"
   },
   {
     "waktu_kirim": "2026-09-10 23:37",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "PSV vs Shakhtar Donetsk - UEFA Champions League | Live Jam 23:40 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/StVlzFiLLILjSE4bxLyAIVSvD4I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5310794/ef331e.jpg"
+    "pesan": "Fenerbahce vs Roma - UEFA Champions League | Live Jam 23:40 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/VC5WPBALPCo4MoslVjIc3Ro0fCU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5311168/2a0c3f.png"
   },
   {
     "waktu_kirim": "2026-09-11 01:47",
@@ -158,14 +158,14 @@
   {
     "waktu_kirim": "2026-09-11 01:57",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Bayern vs Bodo/Glimt - UEFA Champions League | Live Jam 02:00 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/tkPBPXPcEj2laf3m7l7WzZvG_FU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5311282/f58618.png"
+    "pesan": "Man Utd vs Sabah FK - UEFA Champions League | Live Jam 02:00 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/7NagsJhpVRelooUmtUJUWD449io=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5311286/8ee8d4.png"
   },
   {
     "waktu_kirim": "2026-09-11 01:57",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Man Utd vs Sabah FK - UEFA Champions League | Live Jam 02:00 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/7NagsJhpVRelooUmtUJUWD449io=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5311286/8ee8d4.png"
+    "pesan": "Bayern vs Bodo/Glimt - UEFA Champions League | Live Jam 02:00 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/tkPBPXPcEj2laf3m7l7WzZvG_FU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5311282/f58618.png"
   },
   {
     "waktu_kirim": "2026-09-11 01:57",
@@ -186,10 +186,28 @@
     "gambar": "https://thumbor.prod.vidiocdn.com/jOrrox06bT9dZREN5r9nE21-4eI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5311302/1b673e.png"
   },
   {
+    "waktu_kirim": "2026-09-11 20:27",
+    "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "ONE Friday Fights 170 | Live Jam 20:30 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/PHw5CM6VieaJTEiw5im86VVX49E=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/16890/one-championship-30ed03.png"
+  },
+  {
     "waktu_kirim": "2026-09-11 22:57",
     "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "Paris Major Premier Padel 2026 - Quarterfinals | Live Jam 23:00 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/8xPVDfZZ-zK5OfXwfja3d8DCdy4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5311290/6b6a88.jpg"
+  },
+  {
+    "waktu_kirim": "2026-09-12 00:57",
+    "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "Paris Major Premier Padel 2026 - Quarterfinals | Live Jam 01:00 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/57EvfUwIGo03MdOsFiN6ff6Jczw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"
+  },
+  {
+    "waktu_kirim": "2026-09-12 01:42",
+    "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "Stade Rennais FC vs Olympique de Marseille - Ligue 1 | Live Jam 01:45 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/4hUv5ufMHVxgcedwWzqVKY3KDJs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5311968/65540b.jpg"
   },
   {
     "waktu_kirim": "2026-09-12 14:57",
