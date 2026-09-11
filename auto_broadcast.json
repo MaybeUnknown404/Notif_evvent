@@ -24,9 +24,9 @@
     "gambar": "https://thumbor.prod.vidiocdn.com/firMkICN8RPbQ5vDbXi0K4h5T2o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5312004/71a1b1.png"
   },
   {
-    "waktu_kirim": "2026-09-11 14:57",
+    "waktu_kirim": "2026-09-11 14:54",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Garudayaksa FC vs PERSIK Kediri - BRI Super League | Live Jam 15:00 WIB.",
+    "pesan": "Garudayaksa FC vs PERSIK Kediri - BRI Super League | Live Jam 14:57 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/Hoe7rdEQQb5VjmTinti0TbZWNAU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5313555/273c9d.png"
   },
   {
@@ -290,6 +290,12 @@
   {
     "waktu_kirim": "2026-09-12 18:49",
     "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "PERSIKU Kudus vs Adhyaksa FC Bekasi - Pegadaian Championship | Live Jam 18:52 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/UtZcbG35I-ihsSVVCZTisT6TZ40=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5315825/fbeb96.png"
+  },
+  {
+    "waktu_kirim": "2026-09-12 18:49",
+    "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "PS. Barito Putera vs PERSIPURA Jayapura - Pegadaian Championship | Live Jam 18:52 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/ljsgVjnIky11Nu2zvGnwNYFz0WU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5315827/add4ad.png"
   },
@@ -298,12 +304,6 @@
     "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "PERSIKAD vs PSGC Ciamis - Pegadaian Championship | Live Jam 18:52 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/lX5iSTHs1PQwZBYsGwIKVzGqIQ8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5315822/4e1b86.png"
-  },
-  {
-    "waktu_kirim": "2026-09-12 18:49",
-    "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "PERSIKU Kudus vs Adhyaksa FC Bekasi - Pegadaian Championship | Live Jam 18:52 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/UtZcbG35I-ihsSVVCZTisT6TZ40=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5315825/fbeb96.png"
   },
   {
     "waktu_kirim": "2026-09-12 18:52",
@@ -350,18 +350,6 @@
   {
     "waktu_kirim": "2026-09-12 20:57",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Aston Villa vs Nottingham Forest - Premier League | Live Jam 21:00 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/kX76d2LQF-cXtJYI0OdTo86KTVA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5312275/9eabe9.jpg"
-  },
-  {
-    "waktu_kirim": "2026-09-12 20:57",
-    "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Crystal Palace vs Ipswich - Premier League | Live Jam 21:00 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/swwliNGQjiPR7Dsa8iTUKAktok4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5311986/d39f2a.jpg"
-  },
-  {
-    "waktu_kirim": "2026-09-12 20:57",
-    "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "Race 1 - Red Bull MotoGP Rookies Cup 2026 Round 6: Misano | Live Jam 21:00 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/uW1ln7NE_yoKAZC2iR4CkjBiF3U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5313548/78a24b.png"
   },
@@ -370,6 +358,18 @@
     "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "Bournemouth vs Brentford - Premier League | Live Jam 21:00 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/cajfWXMvTYEl2YpLYIdZNRyHI6g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5311984/405bb2.jpg"
+  },
+  {
+    "waktu_kirim": "2026-09-12 20:57",
+    "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "Aston Villa vs Nottingham Forest - Premier League | Live Jam 21:00 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/kX76d2LQF-cXtJYI0OdTo86KTVA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5312275/9eabe9.jpg"
+  },
+  {
+    "waktu_kirim": "2026-09-12 20:57",
+    "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "Crystal Palace vs Ipswich - Premier League | Live Jam 21:00 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/swwliNGQjiPR7Dsa8iTUKAktok4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5311986/d39f2a.jpg"
   },
   {
     "waktu_kirim": "2026-09-12 21:12",
@@ -438,6 +438,12 @@
     "gambar": "https://thumbor.prod.vidiocdn.com/gpCVexyzVDE_9FGB5A6DCCZ7Gfo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5316019/5f8e2d.jpg"
   },
   {
+    "waktu_kirim": "2026-09-13 01:42",
+    "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "AJ Auxerre vs OGC Nice - Ligue 1 | Live Jam 01:45 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/obQjZt7RCJLRbMVgebbWgiRFOrs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5316023/49a48c.jpg"
+  },
+  {
     "waktu_kirim": "2026-09-13 01:57",
     "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "Real Madrid vs Rayo Vallecano - LaLiga | Live Jam 02:00 WIB.",
@@ -476,12 +482,6 @@
   {
     "waktu_kirim": "2026-09-13 15:27",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "PERSITA vs Java United FC - BRI Super League | Live Jam 15:30 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/47T2Ka5Uv4fMtG_GfJuElR5A33k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5313556/c7e4d6.jpg"
-  },
-  {
-    "waktu_kirim": "2026-09-13 15:27",
-    "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "PERSELA Lamongan vs PERSIS Solo - Pegadaian Championship | Live Jam 15:30 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/HtHTmaLfPm5ZIfIrLa6DrRw_YFo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5315828/6c6a6d.jpg"
   },
@@ -490,6 +490,12 @@
     "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "RANS Nusantara FC vs PERSIBA Balikpapan - Pegadaian Championship | Live Jam 15:30 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/M6dBuAxDYRviQ_F8sNNXQyp6C6M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5315997/445a5a.jpg"
+  },
+  {
+    "waktu_kirim": "2026-09-13 15:27",
+    "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "PERSITA vs Java United FC - BRI Super League | Live Jam 15:30 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/47T2Ka5Uv4fMtG_GfJuElR5A33k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5313556/c7e4d6.jpg"
   },
   {
     "waktu_kirim": "2026-09-13 15:42",
