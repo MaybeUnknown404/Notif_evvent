@@ -188,6 +188,12 @@
   {
     "waktu_kirim": "2026-09-19 15:19",
     "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "PSGC Ciamis vs Sumsel United - Pegadaian Championship | Live Jam 15:22 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/mCVEIIhr7lqLdidvkFbbRJJeuZI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5321977/b40eb2.jpg"
+  },
+  {
+    "waktu_kirim": "2026-09-19 15:19",
+    "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "PSPS Pekanbaru vs PERSIRAJA Banda Aceh - Pegadaian Championship | Live Jam 15:22 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/EjX65KLGO-knT9FIKoooSYrQF7k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5322822/3b637e.jpg"
   },
@@ -196,12 +202,6 @@
     "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "PSM Makassar vs PERSITA - BRI Super League | Live Jam 15:22 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/Gl5PtPqbEZYYrPlDsBsdbns0aiI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5322000/89b1e6.jpg"
-  },
-  {
-    "waktu_kirim": "2026-09-19 15:19",
-    "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "PSGC Ciamis vs Sumsel United - Pegadaian Championship | Live Jam 15:22 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/mCVEIIhr7lqLdidvkFbbRJJeuZI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5321977/b40eb2.jpg"
   },
   {
     "waktu_kirim": "2026-09-19 15:19",
@@ -526,5 +526,11 @@
     "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "Man City vs Sunderland - Premier League | Live Jam 20:00 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/je9aNEPw-fr4Wez862ElIsNkjv4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5321996/926b21.jpg"
+  },
+  {
+    "waktu_kirim": "2026-09-20 20:52",
+    "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "Fenerbahce vs Eyupspor - Trendyol Super Lig | Live Jam 20:55 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/YaYtqgWq_paf1xXNdbMKbO6i31g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5321953/bfa394.jpg"
   }
 ]
