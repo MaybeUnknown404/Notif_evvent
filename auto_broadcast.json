@@ -1,27 +1,21 @@
 [
   {
+    "waktu_kirim": "2026-10-10 14:12",
+    "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "Yunchaokete Bu vs Casper Ruud - Round 2 (Stadium Court) | ATP 1000: Rolex Shanghai Masters 2026 | Live Jam 14:15 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/BT0KwK5OsyMRaX-DbpagPciX0eA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5375823/4e78a5.jpg"
+  },
+  {
+    "waktu_kirim": "2026-10-10 14:12",
+    "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "Matteo Arnaldi vs Taylor Fritz - Round 2 | ATP 1000: Rolex Shanghai Masters 2026 | Live Jam 14:15 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/Goer7eqCgc-BKhbdK46p6bDRWmI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376003/6d4ff9.jpg"
+  },
+  {
     "waktu_kirim": "2026-10-10 14:57",
     "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "Arthur Fils vs Pavel Kotov - Round 2 | ATP 1000: Rolex Shanghai Masters 2026 | Live Jam 15:00 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/fj9JCxaRvuc3lk6hzXqEyoXnNeo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376004/6a2fde.jpg"
-  },
-  {
-    "waktu_kirim": "2026-10-10 14:57",
-    "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Learner Tien vs Zachary Svajda - Round 2 (Show Court 3) | ATP 1000: Rolex Shanghai Masters 2026 | Live Jam 15:00 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/4MoXtsFD8n6Yb6rJgvShhue4Mc0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5375820/426858.jpg"
-  },
-  {
-    "waktu_kirim": "2026-10-10 14:57",
-    "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Arthur Fils vs Pavel Kotov - Round 2 (Grandstand 2) | ATP 1000: Rolex Shanghai Masters 2026 | Live Jam 15:00 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/9hFQsp328YP2FnTz5r8FLknkg-I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5375815/676d99.jpg"
-  },
-  {
-    "waktu_kirim": "2026-10-10 14:57",
-    "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Zhizhen Zhang/Yi Zhou vs Constantin Frantzen/Robin Haase - Round of 32 (Court 7) | ATP 1000: Rolex Shanghai Masters 2026 | Live Jam 15:00 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/f2pCF06o-YDoHeyxublKLnaQum8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5375811/59e8a4.jpg"
   },
   {
     "waktu_kirim": "2026-10-10 14:57",
@@ -44,6 +38,24 @@
   {
     "waktu_kirim": "2026-10-10 14:57",
     "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "Learner Tien vs Zachary Svajda - Round 2 (Show Court 3) | ATP 1000: Rolex Shanghai Masters 2026 | Live Jam 15:00 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/4MoXtsFD8n6Yb6rJgvShhue4Mc0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5375820/426858.jpg"
+  },
+  {
+    "waktu_kirim": "2026-10-10 14:57",
+    "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "Arthur Fils vs Pavel Kotov - Round 2 (Grandstand 2) | ATP 1000: Rolex Shanghai Masters 2026 | Live Jam 15:00 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/9hFQsp328YP2FnTz5r8FLknkg-I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5375815/676d99.jpg"
+  },
+  {
+    "waktu_kirim": "2026-10-10 14:57",
+    "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "Zhizhen Zhang/Yi Zhou vs Constantin Frantzen/Robin Haase - Round of 32 (Court 7) | ATP 1000: Rolex Shanghai Masters 2026 | Live Jam 15:00 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/f2pCF06o-YDoHeyxublKLnaQum8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5375811/59e8a4.jpg"
+  },
+  {
+    "waktu_kirim": "2026-10-10 14:57",
+    "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "Ivan Liutarevich/Daniil Medvedev vs Alexander Bublik/Ben Shelton - Round of 32 (Court 4) | ATP 1000: Rolex Shanghai Masters 2026 | Live Jam 15:00 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/F-qU6E36eF-MJFRxHxEFd6-LZQ4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5375806/5f7b79.jpg"
   },
@@ -52,6 +64,12 @@
     "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "Liu Kuang Heng/Hsu Yin-Hui (TPE) vs Gao Jia Xuan/Wu Meng Ying (CHN) - Mixed Doubles Semifinals | CLASH OF CLANS Arctic Open 2026 | Live Jam 15:00 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/yMbhHkRXSPayX_IhT14WvqLk4EE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/clash-of-clans-arctic-open-2026-semifinals-676b58.jpg"
+  },
+  {
+    "waktu_kirim": "2026-10-10 15:19",
+    "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "PERSITA vs Garudayaksa FC - BRI Super League | Live Jam 15:22 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/Kj2j7P_aVSVWn7-3HF5keEstlW0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5371107/c50c31.jpg"
   },
   {
     "waktu_kirim": "2026-10-10 15:19",
@@ -72,22 +90,10 @@
     "gambar": "https://thumbor.prod.vidiocdn.com/Z6P8XDGW0Q-p036XuS3wTYXXdIc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376051/e3dce3.jpg"
   },
   {
-    "waktu_kirim": "2026-10-10 15:19",
-    "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "PERSITA vs Garudayaksa FC - BRI Super League | Live Jam 15:22 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/Kj2j7P_aVSVWn7-3HF5keEstlW0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5371107/c50c31.jpg"
-  },
-  {
     "waktu_kirim": "2026-10-10 15:52",
     "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "Sprint - Formula 1 Singapore Airlines Singapore Grand Prix 2026 | Live Jam 15:55 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/zPEzi_-rTg0p2v4oe_ZAzGEzc98=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5369529/063298.jpg"
-  },
-  {
-    "waktu_kirim": "2026-10-10 16:57",
-    "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Putri: UAD vs UNMEKA - Semifinal - Liga Voli Mahasiswa | Live Jam 17:00 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/fY6Ovo_ZSwM2OHcX0DWU5gZkEHo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376009/15fa15.png"
   },
   {
     "waktu_kirim": "2026-10-10 16:57",
@@ -98,26 +104,8 @@
   {
     "waktu_kirim": "2026-10-10 16:57",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Botic van de Zandschulp vs Alex Michelsen - Round 2 (Court 4) | ATP 1000: Rolex Shanghai Masters 2026 | Live Jam 17:00 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/qwFyF3JmK7a-fBMSK-V3JoRGeSU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5375807/a6aa2d.jpg"
-  },
-  {
-    "waktu_kirim": "2026-10-10 16:57",
-    "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "Ignacio Buse vs Zizou Bergs - Round 2 (Court 7) | ATP 1000: Rolex Shanghai Masters 2026 | Live Jam 17:00 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/eWg0s6OUuWCtBeJYX8PzaDNzUn0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5375812/19044d.jpg"
-  },
-  {
-    "waktu_kirim": "2026-10-10 16:57",
-    "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Luciano Darderi vs Stefanos Tsitsipas - Round 2 (Grandstand 2) | ATP 1000: Rolex Shanghai Masters 2026 | Live Jam 17:00 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/nYqjk6rO39nTMNQNham3BiJ3Reg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5375816/77864f.jpg"
-  },
-  {
-    "waktu_kirim": "2026-10-10 16:57",
-    "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Tommy Paul vs Adolfo Daniel Vallejo - Round 2 (Show Court 3) | ATP 1000: Rolex Shanghai Masters 2026 | Live Jam 17:00 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/XI0jO5FXcrQVGOKBbiROXHtRPBY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5375821/c100c3.jpg"
   },
   {
     "waktu_kirim": "2026-10-10 16:57",
@@ -128,20 +116,44 @@
   {
     "waktu_kirim": "2026-10-10 16:57",
     "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "Tommy Paul vs Adolfo Daniel Vallejo - Round 2 (Show Court 3) | ATP 1000: Rolex Shanghai Masters 2026 | Live Jam 17:00 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/XI0jO5FXcrQVGOKBbiROXHtRPBY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5375821/c100c3.jpg"
+  },
+  {
+    "waktu_kirim": "2026-10-10 16:57",
+    "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "Botic van de Zandschulp vs Alex Michelsen - Round 2 (Court 4) | ATP 1000: Rolex Shanghai Masters 2026 | Live Jam 17:00 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/qwFyF3JmK7a-fBMSK-V3JoRGeSU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5375807/a6aa2d.jpg"
+  },
+  {
+    "waktu_kirim": "2026-10-10 16:57",
+    "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "Luciano Darderi vs Stefanos Tsitsipas - Round 2 (Grandstand 2) | ATP 1000: Rolex Shanghai Masters 2026 | Live Jam 17:00 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/nYqjk6rO39nTMNQNham3BiJ3Reg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5375816/77864f.jpg"
+  },
+  {
+    "waktu_kirim": "2026-10-10 16:57",
+    "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "Juan Manuel Cerundolo vs Carlos Alcaraz - Round 2 | ATP 1000: Rolex Shanghai Masters 2026 | Live Jam 17:00 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/GNQfuTvLLxc6MjCLXEdwACybj2Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376005/88dcf4.jpg"
   },
   {
-    "waktu_kirim": "2026-10-10 17:57",
+    "waktu_kirim": "2026-10-10 16:57",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Arsenal vs Leeds United - Premier League | Live Jam 18:00 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/67ZxPG_3pEIqomvu6kTH9eSQcsM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5371112/1e207b.jpg"
+    "pesan": "Putri: UAD vs UNMEKA - Semifinal - Liga Voli Mahasiswa | Live Jam 17:00 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/fY6Ovo_ZSwM2OHcX0DWU5gZkEHo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376009/15fa15.png"
   },
   {
     "waktu_kirim": "2026-10-10 17:57",
     "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "Qinwen Zheng vs Elise Mertens - Women's Singles Semifinals | WTA 1000: China Open 2026 | Live Jam 18:00 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/AlP16Jw2FPlIOiNpRdB28oNRzeI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5375944/b07642.png"
+  },
+  {
+    "waktu_kirim": "2026-10-10 17:57",
+    "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "Arsenal vs Leeds United - Premier League | Live Jam 18:00 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/67ZxPG_3pEIqomvu6kTH9eSQcsM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5371112/1e207b.jpg"
   },
   {
     "waktu_kirim": "2026-10-10 18:27",
@@ -152,20 +164,26 @@
   {
     "waktu_kirim": "2026-10-10 18:49",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "PS. Barito Putera vs PERSIBA Balikpapan - Pegadaian Championship | Live Jam 18:52 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/BYYaaPA6iFAm55rpjkbTjmtMo70=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5370185/885db2.jpg"
-  },
-  {
-    "waktu_kirim": "2026-10-10 18:49",
-    "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "Kendal Tornado FC vs PSBS Biak - Pegadaian Championship | Live Jam 18:52 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/cNeIG80maKTGdQHl0FJ2Euxpeok=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5371110/da1409.jpg"
   },
   {
+    "waktu_kirim": "2026-10-10 18:49",
+    "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "PS. Barito Putera vs PERSIBA Balikpapan - Pegadaian Championship | Live Jam 18:52 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/BYYaaPA6iFAm55rpjkbTjmtMo70=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5370185/885db2.jpg"
+  },
+  {
     "waktu_kirim": "2026-10-10 18:57",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Malaysia vs China - Finals Victor BWF World Junior Team Championsips 2026 | Live Jam 19:00 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/PYRjgBp0uQQ6cpBIjWQLqNuiqtQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5372614/628ce9.jpg"
+    "pesan": "Putra: UII vs UNTAG - Semifinal - Liga Voli Mahasiswa | Live Jam 19:00 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/EDAJ8qCrL_GVtaG5dVY0vC9ZbG0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376010/ec2b59.png"
+  },
+  {
+    "waktu_kirim": "2026-10-10 18:57",
+    "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "Sebastian Baez vs Valentin Vacherot - Round 2 (Stadium Court) | ATP 1000: Rolex Shanghai Masters 2026 | Live Jam 19:00 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/60CZRkOrCaYjAxA8ne-8g9d7DyU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5375934/58f10f.jpg"
   },
   {
     "waktu_kirim": "2026-10-10 18:57",
@@ -182,14 +200,8 @@
   {
     "waktu_kirim": "2026-10-10 18:57",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Putra: UII vs UNTAG - Semifinal - Liga Voli Mahasiswa | Live Jam 19:00 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/EDAJ8qCrL_GVtaG5dVY0vC9ZbG0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376010/ec2b59.png"
-  },
-  {
-    "waktu_kirim": "2026-10-10 18:57",
-    "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Sebastian Baez vs Valentin Vacherot - Round 2 (Stadium Court) | ATP 1000: Rolex Shanghai Masters 2026 | Live Jam 19:00 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/60CZRkOrCaYjAxA8ne-8g9d7DyU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5375934/58f10f.jpg"
+    "pesan": "Malaysia vs China - Finals Victor BWF World Junior Team Championsips 2026 | Live Jam 19:00 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/PYRjgBp0uQQ6cpBIjWQLqNuiqtQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5372614/628ce9.jpg"
   },
   {
     "waktu_kirim": "2026-10-10 19:07",
@@ -224,14 +236,14 @@
   {
     "waktu_kirim": "2026-10-10 20:47",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Ipswich vs Fulham - Premier League | Live Jam 20:50 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/F0_eijLH1gXqYs-4ECferK-louw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5371309/ad4d93.jpg"
+    "pesan": "Sunderland vs Brighton - Premier League | Live Jam 20:50 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/_evLKnxVqkAw4w-XvzTrOT5dPo4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5371418/090ca4.jpg"
   },
   {
     "waktu_kirim": "2026-10-10 20:47",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Sunderland vs Brighton - Premier League | Live Jam 20:50 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/_evLKnxVqkAw4w-XvzTrOT5dPo4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5371418/090ca4.jpg"
+    "pesan": "Ipswich vs Fulham - Premier League | Live Jam 20:50 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/F0_eijLH1gXqYs-4ECferK-louw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5371309/ad4d93.jpg"
   },
   {
     "waktu_kirim": "2026-10-10 20:57",
@@ -296,26 +308,14 @@
   {
     "waktu_kirim": "2026-10-11 01:27",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Napoli vs Frosinone Calcio - Serie A | Live Jam 01:30 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/0i-VdUbcHyUjMOVH5rH6Mv1N0uM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5371118/cef52d.jpg"
-  },
-  {
-    "waktu_kirim": "2026-10-11 01:27",
-    "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "Prosecco DOC Imoco Conegliana vs Laica Uyba Busto Arsizio - Italian Women's Volleyball Serie A1 | Live Jam 01:30 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/7b4JHViqP9s4df9RU7ONiv-vnSY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5375946/a4c352.png"
   },
   {
-    "waktu_kirim": "2026-10-11 01:42",
+    "waktu_kirim": "2026-10-11 01:27",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "AS Monaco vs Toulouse FC - Ligue 1 | Live Jam 01:45 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/ipKUbnbfh8OcUoSgTbLHu7k1gtE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5372945/5dae20.jpg"
-  },
-  {
-    "waktu_kirim": "2026-10-11 01:42",
-    "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Paris Saint-Germain vs Le Mans FC - Ligue 1 | Live Jam 01:45 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/BwyyzYpzrYd-94EtVZiDOaVDStE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5372947/0c5335.jpg"
+    "pesan": "Napoli vs Frosinone Calcio - Serie A | Live Jam 01:30 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/0i-VdUbcHyUjMOVH5rH6Mv1N0uM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5371118/cef52d.jpg"
   },
   {
     "waktu_kirim": "2026-10-11 01:42",
@@ -326,8 +326,20 @@
   {
     "waktu_kirim": "2026-10-11 01:42",
     "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "AS Monaco vs Toulouse FC - Ligue 1 | Live Jam 01:45 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/ipKUbnbfh8OcUoSgTbLHu7k1gtE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5372945/5dae20.jpg"
+  },
+  {
+    "waktu_kirim": "2026-10-11 01:42",
+    "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "Stade Brestois 29 vs Angers SCO - Ligue 1 | Live Jam 01:45 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/HgEw125wHLci7AQJRSKQi6TmShg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5372501/623e4b.jpg"
+  },
+  {
+    "waktu_kirim": "2026-10-11 01:42",
+    "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "Paris Saint-Germain vs Le Mans FC - Ligue 1 | Live Jam 01:45 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/BwyyzYpzrYd-94EtVZiDOaVDStE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5372947/0c5335.jpg"
   },
   {
     "waktu_kirim": "2026-10-11 01:57",
@@ -380,14 +392,14 @@
   {
     "waktu_kirim": "2026-10-11 15:19",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "PERSELA Lamongan vs Deltras FC - Pegadaian Championship | Live Jam 15:22 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/c0vy_0CWZTHNAmeWXCRvWIYUTmk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5375649/57eecb.jpg"
+    "pesan": "PSPS Pekanbaru vs PSMS Medan - Pegadaian Championship | Live Jam 15:22 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/y3558Pgvbdnoho38TfPTxIUDLKQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5375652/ce8ee0.jpg"
   },
   {
     "waktu_kirim": "2026-10-11 15:19",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "PSPS Pekanbaru vs PSMS Medan - Pegadaian Championship | Live Jam 15:22 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/y3558Pgvbdnoho38TfPTxIUDLKQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5375652/ce8ee0.jpg"
+    "pesan": "PERSELA Lamongan vs Deltras FC - Pegadaian Championship | Live Jam 15:22 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/c0vy_0CWZTHNAmeWXCRvWIYUTmk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5375649/57eecb.jpg"
   },
   {
     "waktu_kirim": "2026-10-11 15:27",
@@ -416,14 +428,14 @@
   {
     "waktu_kirim": "2026-10-11 18:27",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Final - WTA 1000: China Open 2026 | Live Jam 18:30 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/QgqQ81Kw1e2sljyOb2raxsLRo9U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376052/ca2047.jpg"
+    "pesan": "PERSIB vs Dewa United Banten FC - BRI Super League | Live Jam 18:30 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/kz1wgQ0_LuzW01CNUPJ-9XgBS4o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5371528/c7a46b.jpg"
   },
   {
     "waktu_kirim": "2026-10-11 18:27",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "PERSIB vs Dewa United Banten FC - BRI Super League | Live Jam 18:30 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/kz1wgQ0_LuzW01CNUPJ-9XgBS4o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5371528/c7a46b.jpg"
+    "pesan": "Final - WTA 1000: China Open 2026 | Live Jam 18:30 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/QgqQ81Kw1e2sljyOb2raxsLRo9U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376052/ca2047.jpg"
   },
   {
     "waktu_kirim": "2026-10-11 18:49",
@@ -500,14 +512,14 @@
   {
     "waktu_kirim": "2026-10-11 22:57",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Igor Gorgonzola Novara vs ChorusLife Volley Bergamo - Italian Women's Volleyball Serie A1 | Live Jam 23:00 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/1LKEFisw0iU9Xd0TALnOWPa2zzs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376053/f52d6a.png"
+    "pesan": "Besiktas vs Fenerbahce Medicana - Turkish Women's Volleyball League | Live Jam 23:00 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/c24BrW4GdXZ_ie0xX6u-rXj8bDw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5372956/c3dbb7.jpg"
   },
   {
     "waktu_kirim": "2026-10-11 22:57",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Besiktas vs Fenerbahce Medicana - Turkish Women's Volleyball League | Live Jam 23:00 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/c24BrW4GdXZ_ie0xX6u-rXj8bDw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5372956/c3dbb7.jpg"
+    "pesan": "Igor Gorgonzola Novara vs ChorusLife Volley Bergamo - Italian Women's Volleyball Serie A1 | Live Jam 23:00 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/1LKEFisw0iU9Xd0TALnOWPa2zzs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376053/f52d6a.png"
   },
   {
     "waktu_kirim": "2026-10-11 23:27",
@@ -526,17 +538,5 @@
     "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "Denver Broncos vs Los Angeles Chargers - NFL | Live Jam 03:25 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/zxHI7ZdnPpT_0cyEILjA7D3ff0E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376028/530af5.jpg"
-  },
-  {
-    "waktu_kirim": "2026-10-12 07:17",
-    "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Baltimore Ravens vs Atlanta Falcons - NFL | Live Jam 07:20 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/Fb7cLH4DMtpcUZKa8DiD5SkJDfM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376029/a6a7fa.jpg"
-  },
-  {
-    "waktu_kirim": "2026-10-13 07:12",
-    "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Buffalo Bills vs Los Angeles Rams - NFL | Live Jam 07:15 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/TD5SBVH2A4-TH24OjKrSKiCd6vI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376030/83b9d2.jpg"
   }
 ]
