@@ -102,6 +102,12 @@
     "gambar": "https://thumbor.prod.vidiocdn.com/kK07T2alVf8DHjcClGbpI7OajU0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385235/2f794f.jpg"
   },
   {
+    "waktu_kirim": "2026-10-20 07:02",
+    "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "Washington Commanders vs San Francisco 49ers - NFL | Live Jam 07:05 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/6I6EwjU5jeUZIh_wn7cu8tkqeMI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"
+  },
+  {
     "waktu_kirim": "2026-10-20 14:57",
     "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "Isenmulang Kalteng FC vs Java United FC - BRI Super League | Live Jam 15:00 WIB.",
@@ -152,20 +158,14 @@
   {
     "waktu_kirim": "2026-10-21 01:47",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Napoli vs Bodo/Glimt - UEFA Champions League | Live Jam 01:50 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/UIfvPwdxuRuu_Qy_zk__yPaLAbQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385694/dccbe1.jpg"
-  },
-  {
-    "waktu_kirim": "2026-10-21 01:47",
-    "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "Porto vs PSV - UEFA Champions League | Live Jam 01:50 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/xlGWjNVj-C_8zIt56-WkYsMDwfo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385686/1918c4.jpg"
   },
   {
     "waktu_kirim": "2026-10-21 01:47",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Roma vs Slovan Bratislava - UEFA Champions League | Live Jam 01:50 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/SN-sBc6lX1dhaD32SSgDBJFKSCw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385687/ea6559.jpg"
+    "pesan": "Napoli vs Bodo/Glimt - UEFA Champions League | Live Jam 01:50 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/UIfvPwdxuRuu_Qy_zk__yPaLAbQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385694/dccbe1.jpg"
   },
   {
     "waktu_kirim": "2026-10-21 01:47",
@@ -174,16 +174,22 @@
     "gambar": "https://thumbor.prod.vidiocdn.com/wZrTWuoLHrsrp5ap931LRS5rDgU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385695/da566f.jpg"
   },
   {
-    "waktu_kirim": "2026-10-21 01:52",
+    "waktu_kirim": "2026-10-21 01:47",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Man City vs AEK Athens - UEFA Champions League | Live Jam 01:55 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/VgElJv7dV0q278nqmzkM8VqCB-o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385693/6d365b.jpg"
+    "pesan": "Roma vs Slovan Bratislava - UEFA Champions League | Live Jam 01:50 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/SN-sBc6lX1dhaD32SSgDBJFKSCw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385687/ea6559.jpg"
   },
   {
     "waktu_kirim": "2026-10-21 01:52",
     "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "Paris Saint-Germain vs Barcelona - UEFA Champions League | Live Jam 01:55 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/fq6vRdjIeCwPgfztuTDW4wzpffQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385689/442819.jpg"
+  },
+  {
+    "waktu_kirim": "2026-10-21 01:52",
+    "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "Man City vs AEK Athens - UEFA Champions League | Live Jam 01:55 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/VgElJv7dV0q278nqmzkM8VqCB-o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385693/6d365b.jpg"
   },
   {
     "waktu_kirim": "2026-10-21 15:27",
@@ -224,12 +230,6 @@
   {
     "waktu_kirim": "2026-10-22 01:47",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Club Brugge vs RC Lens - UEFA Champions League | Live Jam 01:50 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/Mdv3UeMYfpHP7ZmuUAIU_XOPAgc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5387861/b02bc6.jpg"
-  },
-  {
-    "waktu_kirim": "2026-10-22 01:47",
-    "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "Real Betis vs Feyenoord - UEFA Champions League | Live Jam 01:50 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/uzvH4OoHY21qggAHbDvmUgGGpP8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5387863/b5e076.jpg"
   },
@@ -244,6 +244,12 @@
     "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "Inter vs Shakhtar Donetsk - UEFA Champions League | Live Jam 01:50 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/h2T-3NToy6MQKGofUZYL9e3KNMc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5387862/121901.jpg"
+  },
+  {
+    "waktu_kirim": "2026-10-22 01:47",
+    "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "Club Brugge vs RC Lens - UEFA Champions League | Live Jam 01:50 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/Mdv3UeMYfpHP7ZmuUAIU_XOPAgc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5387861/b02bc6.jpg"
   },
   {
     "waktu_kirim": "2026-10-22 15:19",
