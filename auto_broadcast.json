@@ -2,20 +2,20 @@
   {
     "waktu_kirim": "2026-10-23 01:42",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Celtic vs Celta Vigo - UEFA Europa League | Live Jam 01:45 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/jbXfXgdCaWzgL8AHJy1tFIcuVws=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388332/889dd1.jpg"
-  },
-  {
-    "waktu_kirim": "2026-10-23 01:42",
-    "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "Bournemouth vs Milan - UEFA Europa League | Live Jam 01:45 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/2RAUWArdJ755Qm7Z37TgQGViY-k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390669/6cdab9.jpg"
   },
   {
+    "waktu_kirim": "2026-10-23 01:42",
+    "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "Celtic vs Celta Vigo - UEFA Europa League | Live Jam 01:45 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/jbXfXgdCaWzgL8AHJy1tFIcuVws=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388332/889dd1.jpg"
+  },
+  {
     "waktu_kirim": "2026-10-23 01:47",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Midtjylland vs Sint-Truidense - UEFA Conference League | Live Jam 01:50 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/eZp8Tk7aQwtSVeNDVjBe-fYcThs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388394/8a6423.jpg"
+    "pesan": "Omonoia vs Benfica - UEFA Europa League | Live Jam 01:50 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/eYkPm2ab9o8qLScyMW3YsWAdlKo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388010/b472c3.jpg"
   },
   {
     "waktu_kirim": "2026-10-23 01:47",
@@ -44,12 +44,6 @@
   {
     "waktu_kirim": "2026-10-23 01:47",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Omonoia vs Benfica - UEFA Europa League | Live Jam 01:50 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/eYkPm2ab9o8qLScyMW3YsWAdlKo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388010/b472c3.jpg"
-  },
-  {
-    "waktu_kirim": "2026-10-23 01:47",
-    "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "Viktoria Plzen vs Levski Sofia - UEFA Europa League | Live Jam 01:50 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/4iDGI4j3fRC7mrdeNQ6--piAE4o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388012/7dfe3e.jpg"
   },
@@ -70,6 +64,12 @@
     "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "Braga vs Gent - UEFA Conference League | Live Jam 01:50 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/CKQ_Loxfau6G_Y3tg_92qBwabds=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388391/b43979.jpg"
+  },
+  {
+    "waktu_kirim": "2026-10-23 01:47",
+    "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "Midtjylland vs Sint-Truidense - UEFA Conference League | Live Jam 01:50 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/eZp8Tk7aQwtSVeNDVjBe-fYcThs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388394/8a6423.jpg"
   },
   {
     "waktu_kirim": "2026-10-23 01:47",
@@ -234,10 +234,22 @@
     "gambar": "https://thumbor.prod.vidiocdn.com/pKwmrcR41KI9AD5G-rP7YpnGxKE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390689/2a0b75.jpg"
   },
   {
+    "waktu_kirim": "2026-10-23 18:57",
+    "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "Clement Chidekh vs Francisco Cerundolo - Quarterfinal | ATP 250: BNP Paribas Fortis European Open 2026 | Live Jam 19:00 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/8YmxUPByQLxvELd84Go-mpNLXnU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20885/quarterfinals-atp-250-bnp-paribas-fortis-european-open-2026-962480.jpg"
+  },
+  {
     "waktu_kirim": "2026-10-23 20:27",
     "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "Al-Faisaly vs Al-Nassr - ROSHN Saudi League | Live Jam 20:30 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/A-_MORK-ZHsk26PVvv_IXmrMZcI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391289/e17be6.jpg"
+  },
+  {
+    "waktu_kirim": "2026-10-23 20:57",
+    "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "Tallon Griekspoor vs Jiri Lehecka - Quarterfinal | ATP 250: BNP Paribas Fortis European Open 2026 | Live Jam 21:00 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/8YmxUPByQLxvELd84Go-mpNLXnU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20885/quarterfinals-atp-250-bnp-paribas-fortis-european-open-2026-962480.jpg"
   },
   {
     "waktu_kirim": "2026-10-23 21:27",
@@ -250,6 +262,12 @@
     "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "Al-Ittihad vs Diriyah - ROSHN Saudi League | Live Jam 22:30 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/hL7LXTvL3vm7kr4_Q7MlEqTLLJg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390690/b2fa4f.jpg"
+  },
+  {
+    "waktu_kirim": "2026-10-23 23:27",
+    "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "Arthur Fils vs Alex Michelsen - Quarterfinal | ATP 250: BNP Paribas Fortis European Open 2026 | Live Jam 23:30 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/8YmxUPByQLxvELd84Go-mpNLXnU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20885/quarterfinals-atp-250-bnp-paribas-fortis-european-open-2026-962480.jpg"
   },
   {
     "waktu_kirim": "2026-10-23 23:57",
@@ -268,6 +286,12 @@
     "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "Al-Qadsiah vs Al-Hilal - ROSHN Saudi League | Live Jam 01:00 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/6as_aInQzfPP5VGPBGARgFLxVDQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390691/c2a09b.jpg"
+  },
+  {
+    "waktu_kirim": "2026-10-24 01:27",
+    "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "Jan-Lennard Struff vs Zizou Bergs - Quarterfinal | ATP 250: BNP Paribas Fortis European Open 2026 | Live Jam 01:30 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/8YmxUPByQLxvELd84Go-mpNLXnU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20885/quarterfinals-atp-250-bnp-paribas-fortis-european-open-2026-962480.jpg"
   },
   {
     "waktu_kirim": "2026-10-24 01:42",
@@ -290,14 +314,14 @@
   {
     "waktu_kirim": "2026-10-24 01:57",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Bolton vs Middlesbrough - EFL Championship | Live Jam 02:00 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/BltkrkiFLggjMZEVih5elq-dwGQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390694/cdc045.jpg"
+    "pesan": "Ipswich vs Nottingham Forest - Premier League | Live Jam 02:00 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/VqkKSGfjxwqNGJEzp_IBr2MoDt4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391017/87bbef.jpg"
   },
   {
     "waktu_kirim": "2026-10-24 01:57",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Ipswich vs Nottingham Forest - Premier League | Live Jam 02:00 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/VqkKSGfjxwqNGJEzp_IBr2MoDt4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391017/87bbef.jpg"
+    "pesan": "Bolton vs Middlesbrough - EFL Championship | Live Jam 02:00 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/BltkrkiFLggjMZEVih5elq-dwGQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390694/cdc045.jpg"
   },
   {
     "waktu_kirim": "2026-10-24 03:52",
@@ -404,8 +428,8 @@
   {
     "waktu_kirim": "2026-10-24 18:49",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Kendal Tornado FC vs Deltras FC - Pegadaian Championship | Live Jam 18:52 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/XS2PuvaS7ZroI9lIvdCtshnWlBU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390703/da297f.jpg"
+    "pesan": "PERSIS Solo vs RANS Nusantara FC - Pegadaian Championship | Live Jam 18:52 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/N6IRYsXNqlODgAoD4TahA6NKE4c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390701/d7c224.jpg"
   },
   {
     "waktu_kirim": "2026-10-24 18:49",
@@ -416,14 +440,14 @@
   {
     "waktu_kirim": "2026-10-24 18:49",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Adhyaksa FC Bekasi vs Sumsel United - Pegadaian Championship | Live Jam 18:52 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/7Ai09eQ5WG3umaUusVCYkUz2HKM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390697/33e2bb.jpg"
+    "pesan": "Kendal Tornado FC vs Deltras FC - Pegadaian Championship | Live Jam 18:52 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/XS2PuvaS7ZroI9lIvdCtshnWlBU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390703/da297f.jpg"
   },
   {
     "waktu_kirim": "2026-10-24 18:49",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "PERSIS Solo vs RANS Nusantara FC - Pegadaian Championship | Live Jam 18:52 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/N6IRYsXNqlODgAoD4TahA6NKE4c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390701/d7c224.jpg"
+    "pesan": "Adhyaksa FC Bekasi vs Sumsel United - Pegadaian Championship | Live Jam 18:52 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/7Ai09eQ5WG3umaUusVCYkUz2HKM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390697/33e2bb.jpg"
   },
   {
     "waktu_kirim": "2026-10-24 18:57",
@@ -436,29 +460,5 @@
     "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "Rajadamnern 2026 Featherweight Title | Live Jam 19:10 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/7_-qpZeKLNwV-qsNay1CUxppF9I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391102/4fa0ef.png"
-  },
-  {
-    "waktu_kirim": "2026-10-24 19:57",
-    "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Cagliari vs Bologna - Serie A | Live Jam 20:00 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/Vl1uRpQGAq80sOhIAQqclY5N3Ek=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391821/b53f25.jpg"
-  },
-  {
-    "waktu_kirim": "2026-10-24 20:19",
-    "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "PERSIRAJA Banda Aceh vs PSGC Ciamis - Pegadaian Championship | Live Jam 20:22 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/wNL9d0qisEj4AdjYkcaA-b6Q7V0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390719/aa1288.jpg"
-  },
-  {
-    "waktu_kirim": "2026-10-24 20:57",
-    "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Arsenal vs Everton - Premier League | Live Jam 21:00 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/czyjZvTYXFoULI7WtpA0n9D3HJI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391098/4d1cdc.jpg"
-  },
-  {
-    "waktu_kirim": "2026-10-24 20:57",
-    "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Coventry City vs Fulham - Premier League | Live Jam 21:00 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/mTi9O9cjEvO6Bfsy3orJlYBmmYI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391100/9b82f7.jpg"
   }
 ]
