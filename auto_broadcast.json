@@ -140,8 +140,8 @@
   {
     "waktu_kirim": "2026-10-22 23:32",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Crvena Zvezda vs Copenhagen - UEFA Conference League | Live Jam 23:35 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/1iz43E-FjvWp0fVVPlGRWqou2Ks=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388396/85db43.jpg"
+    "pesan": "Union Saint-Gilloise vs Hapoel Beer-Sheva - UEFA Europa League | Live Jam 23:35 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/hN29JdjOqd67wCx-Zc8Ea3uCKJ0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388011/f2e384.jpg"
   },
   {
     "waktu_kirim": "2026-10-22 23:32",
@@ -182,12 +182,6 @@
   {
     "waktu_kirim": "2026-10-22 23:32",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Union Saint-Gilloise vs Hapoel Beer-Sheva - UEFA Europa League | Live Jam 23:35 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/hN29JdjOqd67wCx-Zc8Ea3uCKJ0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388011/f2e384.jpg"
-  },
-  {
-    "waktu_kirim": "2026-10-22 23:32",
-    "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "Inter Escaldes vs Universitatea Craiova - UEFA Conference League | Live Jam 23:35 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/dyRcSlhZVUyyHZv8WW8qsgTKw4s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388387/e0b60a.jpg"
   },
@@ -202,6 +196,12 @@
     "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "Nordsjaelland vs CSKA Sofia - UEFA Conference League | Live Jam 23:35 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/nrcWPtEku6cGcLzf96TUaROkSY8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388393/6c5627.jpg"
+  },
+  {
+    "waktu_kirim": "2026-10-22 23:32",
+    "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "Crvena Zvezda vs Copenhagen - UEFA Conference League | Live Jam 23:35 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/1iz43E-FjvWp0fVVPlGRWqou2Ks=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388396/85db43.jpg"
   },
   {
     "waktu_kirim": "2026-10-22 23:32",
@@ -568,5 +568,11 @@
     "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "MotoGP Tissot SPRINT: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18 | Live Jam 10:30 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/C3rjsNbOWKSV5Ug7ISchWe0vJ6k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390731/b24a33.png"
+  },
+  {
+    "waktu_kirim": "2026-10-24 14:57",
+    "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "Isenmulang Kalteng FC vs PSIM Jogja - BRI Super League | Live Jam 15:00 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/c-qv4GFckb5IKk7XFNx8R0H4tq0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390717/65f7ca.jpg"
   }
 ]
