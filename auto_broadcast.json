@@ -134,12 +134,6 @@
   {
     "waktu_kirim": "2026-11-07 18:49",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "PERSIJAP Jepara vs Garudayaksa FC - BRI Super League | Live Jam 18:52 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/YPjIeXhF6LqIN4tPQosOz7EoWyY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5426280/b5dcad.jpg"
-  },
-  {
-    "waktu_kirim": "2026-11-07 18:49",
-    "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "PSMS Medan vs PERSIRAJA Banda Aceh - Pegadaian Championship | Live Jam 18:52 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/lj9gaYQgeVvzVK1OlbLWEkMHf0Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5426277/df4fb8.jpg"
   },
@@ -148,6 +142,12 @@
     "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "PERSIS Solo vs PERSIBA Balikpapan - Pegadaian Championship | Live Jam 18:52 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/kGKQwEpfpRVWXSsnbLR6kv-3Cbs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5426276/e86d36.jpg"
+  },
+  {
+    "waktu_kirim": "2026-11-07 18:49",
+    "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "PERSIJAP Jepara vs Garudayaksa FC - BRI Super League | Live Jam 18:52 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/YPjIeXhF6LqIN4tPQosOz7EoWyY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5426280/b5dcad.jpg"
   },
   {
     "waktu_kirim": "2026-11-07 18:57",
@@ -562,5 +562,11 @@
     "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "MotoGP Race: Qatar Airways Grand Prix of Qatar - MotoGP 2026 Round 20 | Live Jam 22:15 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/gGirhmrSnX7yJY4V99KiyS6Yv4k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5429405/89e52f.png"
+  },
+  {
+    "waktu_kirim": "2026-11-08 22:32",
+    "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "AZ Alkmaar vs FC Groningen - Eredivisie | Live Jam 22:35 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/ZPEwlbGMFAo5gZOsRjfddfUuzhA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5429406/26f75a.jpg"
   }
 ]
