@@ -38,12 +38,6 @@
   {
     "waktu_kirim": "2026-11-22 02:37",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Dan Hooker vs Brian Ortega - Lightweight | UFC Fight Night | Live Jam 02:40 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/oJUELXZ5CywLxE3eq9V__m2bGf0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5444109/5e0521.png"
-  },
-  {
-    "waktu_kirim": "2026-11-22 02:37",
-    "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "AS Monaco vs AJ Auxerre - Ligue 1 | Live Jam 02:40 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/1CmD0a1tk5xS4BZcexr7bNXyC5U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5442845/6efa46.jpg"
   },
@@ -52,6 +46,12 @@
     "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "Lille vs Lyon - Ligue 1 | Live Jam 02:40 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/O-EBjecAaqgRMbXSNcGvnNSsMCk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5442846/3dbeca.jpg"
+  },
+  {
+    "waktu_kirim": "2026-11-22 02:37",
+    "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "Dan Hooker vs Brian Ortega - Lightweight | UFC Fight Night | Live Jam 02:40 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/oJUELXZ5CywLxE3eq9V__m2bGf0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5444109/5e0521.png"
   },
   {
     "waktu_kirim": "2026-11-22 02:42",
@@ -170,14 +170,14 @@
   {
     "waktu_kirim": "2026-11-22 19:52",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Barcelona vs Villarreal - LaLiga | Live Jam 19:55 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/uhydQCUbF0ob-52ScFKvVEVeySM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5442252/7d8bad.jpg"
+    "pesan": "Konyaspor vs Besiktas - Trendyol Super Lig | Live Jam 19:55 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/goydTSo9jmUH29-pt5eX-CQc5oA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5442243/11b2e8.jpg"
   },
   {
     "waktu_kirim": "2026-11-22 19:52",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Konyaspor vs Besiktas - Trendyol Super Lig | Live Jam 19:55 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/goydTSo9jmUH29-pt5eX-CQc5oA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5442243/11b2e8.jpg"
+    "pesan": "Barcelona vs Villarreal - LaLiga | Live Jam 19:55 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/uhydQCUbF0ob-52ScFKvVEVeySM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5442252/7d8bad.jpg"
   },
   {
     "waktu_kirim": "2026-11-22 20:22",
