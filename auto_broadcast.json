@@ -38,12 +38,6 @@
   {
     "waktu_kirim": "2026-11-21 18:57",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Tamara Zidansek (SLO) vs Mischka Sinclaire Goenadi (INA)- Billie Jean King Cup Play-offs 2026 | Live Jam 19:00 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/NQ-DMA5LmAXvgts1p9zsx6KcTaM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5444635/ec306c.png"
-  },
-  {
-    "waktu_kirim": "2026-11-21 18:57",
-    "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "Putra: Jatayu Volleyball Club vs Ganeksa Bhumikarta - Kejurnas Bola Voli Antarklub U19 | Live Jam 19:00 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/12dIuiZE64-tSYIXFkTk1V82Gvw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5447572/ed1fe2.jpg"
   },
@@ -52,6 +46,12 @@
     "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "Poland vs Sweden - Billie Jean King Cup Play-offs 2026 | Live Jam 19:00 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/CSlcxGqNYyIDvdyZJXIYV5mRecw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5444094/fa01ad.png"
+  },
+  {
+    "waktu_kirim": "2026-11-21 18:57",
+    "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "Tamara Zidansek (SLO) vs Mischka Sinclaire Goenadi (INA)- Billie Jean King Cup Play-offs 2026 | Live Jam 19:00 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/NQ-DMA5LmAXvgts1p9zsx6KcTaM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5444635/ec306c.png"
   },
   {
     "waktu_kirim": "2026-11-21 18:57",
@@ -92,14 +92,14 @@
   {
     "waktu_kirim": "2026-11-21 19:52",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Alaves vs RC Deportivo - LaLiga | Live Jam 19:55 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/DCbxCktBf-cwatA3T9SEvMXu9g8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5442248/db8114.jpg"
+    "pesan": "Galatasaray vs Samsunspor - Trendyol Super Lig | Live Jam 19:55 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/ROKgF5awSN89vgSqW3MSEunVz08=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5442240/f94cf3.jpg"
   },
   {
     "waktu_kirim": "2026-11-21 19:52",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Galatasaray vs Samsunspor - Trendyol Super Lig | Live Jam 19:55 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/ROKgF5awSN89vgSqW3MSEunVz08=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5442240/f94cf3.jpg"
+    "pesan": "Alaves vs RC Deportivo - LaLiga | Live Jam 19:55 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/DCbxCktBf-cwatA3T9SEvMXu9g8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5442248/db8114.jpg"
   },
   {
     "waktu_kirim": "2026-11-21 20:19",
@@ -122,14 +122,14 @@
   {
     "waktu_kirim": "2026-11-21 20:42",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Lazio vs Lecce - Serie A | Live Jam 20:45 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/c-Tgzh1NmNMkQOR5f6mHK4zTqi8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5442804/995146.jpg"
+    "pesan": "Como vs Cagliari - Serie A | Live Jam 20:45 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/p-_SMnLyMYc4uT5y-huBbQ5MrA8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5442801/abdcd9.jpg"
   },
   {
     "waktu_kirim": "2026-11-21 20:42",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Como vs Cagliari - Serie A | Live Jam 20:45 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/p-_SMnLyMYc4uT5y-huBbQ5MrA8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5442801/abdcd9.jpg"
+    "pesan": "Lazio vs Lecce - Serie A | Live Jam 20:45 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/c-Tgzh1NmNMkQOR5f6mHK4zTqi8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5442804/995146.jpg"
   },
   {
     "waktu_kirim": "2026-11-21 20:57",
@@ -158,8 +158,8 @@
   {
     "waktu_kirim": "2026-11-21 21:47",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Coventry City vs Crystal Palace - Premier League | Live Jam 21:50 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/vLf1M-MsNLow48xRsPIEfz8c_2w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5442803/93d137.jpg"
+    "pesan": "Bournemouth vs Nottingham Forest - Premier League | Live Jam 21:50 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/jtj6MGYPPwAXmRczv2D-hwjs7p8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5442800/42ac5b.jpg"
   },
   {
     "waktu_kirim": "2026-11-21 21:47",
@@ -170,26 +170,26 @@
   {
     "waktu_kirim": "2026-11-21 21:47",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Bournemouth vs Nottingham Forest - Premier League | Live Jam 21:50 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/jtj6MGYPPwAXmRczv2D-hwjs7p8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5442800/42ac5b.jpg"
-  },
-  {
-    "waktu_kirim": "2026-11-21 21:47",
-    "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "Aston Villa vs Sunderland - Premier League | Live Jam 21:50 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/1u-JLNbKEP51uef7TAI9Nv_iIjY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5442798/3f9b64.jpg"
   },
   {
-    "waktu_kirim": "2026-11-21 21:57",
+    "waktu_kirim": "2026-11-21 21:47",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Wolves vs Charlton Athletic FC - EFL Championship | Live Jam 22:00 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/zDH3dZ7mhOBpk1v0T-pxWSf7cuU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5442841/e68c0d.jpg"
+    "pesan": "Coventry City vs Crystal Palace - Premier League | Live Jam 21:50 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/vLf1M-MsNLow48xRsPIEfz8c_2w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5442803/93d137.jpg"
   },
   {
     "waktu_kirim": "2026-11-21 21:57",
     "judul": "🔴 SEGERA LIVE!!!",
     "pesan": "Prelims | UFC Fight Night: Prochazka vs Stirling | Live Jam 22:00 WIB.",
     "gambar": "https://thumbor.prod.vidiocdn.com/skRdtr-djogsTjitrygz-JuTxFE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5444106/7910d3.png"
+  },
+  {
+    "waktu_kirim": "2026-11-21 21:57",
+    "judul": "🔴 SEGERA LIVE!!!",
+    "pesan": "Wolves vs Charlton Athletic FC - EFL Championship | Live Jam 22:00 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/zDH3dZ7mhOBpk1v0T-pxWSf7cuU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5442841/e68c0d.jpg"
   },
   {
     "waktu_kirim": "2026-11-21 22:07",
@@ -242,14 +242,14 @@
   {
     "waktu_kirim": "2026-11-22 00:02",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Newcastle vs Arsenal - Premier League | Live Jam 00:05 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/HZkEMTYlR_3aoYvQsuriBuUXa24=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5442688/f631b4.jpg"
+    "pesan": "London City Lionesses vs Crystal Palace - Women's Super League | Live Jam 00:05 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/ORx36FkReD-Yg4s2U1rlUt3hl8E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5444114/4fa24f.jpg"
   },
   {
     "waktu_kirim": "2026-11-22 00:02",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "London City Lionesses vs Crystal Palace - Women's Super League | Live Jam 00:05 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/ORx36FkReD-Yg4s2U1rlUt3hl8E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5444114/4fa24f.jpg"
+    "pesan": "Newcastle vs Arsenal - Premier League | Live Jam 00:05 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/HZkEMTYlR_3aoYvQsuriBuUXa24=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5442688/f631b4.jpg"
   },
   {
     "waktu_kirim": "2026-11-22 00:22",
@@ -422,14 +422,14 @@
   {
     "waktu_kirim": "2026-11-22 18:57",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "PERSIB vs Bali United FC - BRI Super League | Live Jam 19:00 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/lituhzU4BY-eN_C_AMo8fg21w_A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5443001/645841.jpg"
+    "pesan": "Man City vs Tottenham - Women's Super League | Live Jam 19:00 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/LKIfLx24G_WsLiGAr_bb_gaZAGE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5444115/894f45.jpg"
   },
   {
     "waktu_kirim": "2026-11-22 18:57",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Man City vs Tottenham - Women's Super League | Live Jam 19:00 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/LKIfLx24G_WsLiGAr_bb_gaZAGE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5444115/894f45.jpg"
+    "pesan": "PERSIB vs Bali United FC - BRI Super League | Live Jam 19:00 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/lituhzU4BY-eN_C_AMo8fg21w_A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5443001/645841.jpg"
   },
   {
     "waktu_kirim": "2026-11-22 19:12",
@@ -440,14 +440,14 @@
   {
     "waktu_kirim": "2026-11-22 19:52",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Konyaspor vs Besiktas - Trendyol Super Lig | Live Jam 19:55 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/goydTSo9jmUH29-pt5eX-CQc5oA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5442243/11b2e8.jpg"
+    "pesan": "Barcelona vs Villarreal - LaLiga | Live Jam 19:55 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/uhydQCUbF0ob-52ScFKvVEVeySM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5442252/7d8bad.jpg"
   },
   {
     "waktu_kirim": "2026-11-22 19:52",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Barcelona vs Villarreal - LaLiga | Live Jam 19:55 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/uhydQCUbF0ob-52ScFKvVEVeySM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5442252/7d8bad.jpg"
+    "pesan": "Konyaspor vs Besiktas - Trendyol Super Lig | Live Jam 19:55 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/goydTSo9jmUH29-pt5eX-CQc5oA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5442243/11b2e8.jpg"
   },
   {
     "waktu_kirim": "2026-11-22 20:22",
@@ -458,14 +458,14 @@
   {
     "waktu_kirim": "2026-11-22 20:27",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Sparta Rotterdam vs AZ Alkmaar - Eredivisie | Live Jam 20:30 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/_uneLLd6vlLn5fV35Gs841ry4PY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5443228/30aafa.jpg"
+    "pesan": "Hull City vs Brighton - Premier League | Live Jam 20:30 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/GRQHK6lsW7sv8Zp69fZ2k72dmcU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5442691/7feb46.jpg"
   },
   {
     "waktu_kirim": "2026-11-22 20:27",
     "judul": "🔴 SEGERA LIVE!!!",
-    "pesan": "Hull City vs Brighton - Premier League | Live Jam 20:30 WIB.",
-    "gambar": "https://thumbor.prod.vidiocdn.com/GRQHK6lsW7sv8Zp69fZ2k72dmcU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5442691/7feb46.jpg"
+    "pesan": "Sparta Rotterdam vs AZ Alkmaar - Eredivisie | Live Jam 20:30 WIB.",
+    "gambar": "https://thumbor.prod.vidiocdn.com/_uneLLd6vlLn5fV35Gs841ry4PY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5443228/30aafa.jpg"
   },
   {
     "waktu_kirim": "2026-11-22 20:42",
